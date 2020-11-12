@@ -1,4 +1,4 @@
-# COVID19_OMSDATA
+# Projeto_COVID19Global
 
 A proposta deste repositório será visualizar os arquivos com as informações relacionadas ao COVID19 (global);
 manter-se atualizados com dados da OMS (fonte de dados em anexo);
